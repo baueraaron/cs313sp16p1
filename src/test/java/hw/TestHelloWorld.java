@@ -19,7 +19,7 @@ public class TestHelloWorld {
 	public void tearDown() throws Exception {
 		fixture = null;
 	}
-
+//testa
 	@Test
 	public void getMessage() {
 		assertNotNull(fixture);
